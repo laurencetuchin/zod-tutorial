@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "C:/Users/Laurence/vscode/zod-tutorial/zod-tutorial/src/09-composing-objects.problem.ts"
+    "C:/Users/Laurence/vscode/zod-tutorial/zod-tutorial/src/10-transform.problem.ts"
   ]
 }
