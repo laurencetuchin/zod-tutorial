@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "C:/Users/Laurence/vscode/zod-tutorial/zod-tutorial/src/01-number.solution.ts"
+    "C:/Users/Laurence/vscode/zod-tutorial/zod-tutorial/src/01-number.problem.ts"
   ]
 }

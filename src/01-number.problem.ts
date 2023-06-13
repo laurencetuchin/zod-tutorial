@@ -4,11 +4,12 @@ import { expect, it } from "vitest";
 import { z } from "zod";
 //       ^ 🕵️‍♂️
 
-const mySchema = z.string();
+const mySchema = z.number();
 
 export const toString = (num: unknown) => {
 	// mySchema(num);
-	return mySchema.parse(num);
+	const numberValid = mySchema.parse(num);
+	return String(numberValid);
 };
 
 // TESTS
